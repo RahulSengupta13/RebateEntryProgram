@@ -1,11 +1,8 @@
 ﻿/*=============================================================================
  |   Assignment:  CS6326 Assignment 2
  |       Author:  Rahul Sengupta 
- |       Net-ID:  rxs161630
  |     Language:  C#
  |        Class:  Human Computer Interaction
- |   Instructor:  John Cole
- |     Due Date:  09/26/16
  |
  +-----------------------------------------------------------------------------
  |
